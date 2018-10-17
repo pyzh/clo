@@ -13,7 +13,7 @@ from clo import e,o #o=原文,e=英文
 o.打印(123) #->o.印('123')
 
 
-from clo import *
+from clo import * # do something like / import future
 
 print(123) #-> o.打印(123)
 
