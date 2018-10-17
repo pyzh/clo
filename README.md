@@ -16,5 +16,8 @@ o.打印(123) #->o.印('123')
 from clo import * # do something like / import future
 
 print(123) #-> o.打印(123)
+print<<'21' 
+print-'233'
+
 
 ```
