@@ -16,8 +16,18 @@ o.打印(123) #->o.印('123')
 from clo import * # do something like / import future
 
 print(123) #-> o.打印(123)
-print<<'21' 
-print-'233'
+print<<'21' # nothing
+print-'2' # nothing?
+
+print() # -> py:print('1')
+
+print+'a' # '1'->'1a'
+
+print>>'b' # '1a' -> 'b'
+
+print # repl>>> {打印:b}
+
+str(print) # 'b'
 
 
 ```
